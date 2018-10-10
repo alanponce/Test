@@ -17,9 +17,7 @@ This is the Context. It should help provide students with the background informa
 The Instructions that follow should be in bullet point form with clear guidance for what is expected.
 
 `@instructions`
-- Instruction 1
-- Instruction 2
-- Instruction 3
+- Complete the code such that boolean_vector contains the three elements: TRUE, FALSE and TRUE (in that order).3
 
 `@hint`
 - Here is the hint for this setup problem. 
@@ -34,23 +32,20 @@ The Instructions that follow should be in bullet point form with clear guidance 
 
 `@sample_code`
 ```{r}
-# Your
-# sample
-# code
-# should
-# be
-# ideally
-# 10 lines or less,
-# with a max
-# of 16 lines.
+numeric_vector <- c(, , )
+character_vector <- c(" ", " ", " ")
+
+# Complete the code for boolean_vector
+boolean_vector <- c(TRUE, FALSE, TRUE)
 ```
 
 `@solution`
 ```{r}
-# Answer goes here
-# Make sure to match the comments with your sample code
-# to help students see the differences from solution
-# to given.
+numeric_vector <- c(1, 10, 49)
+character_vector <- c("a", "b", "c")
+
+# Complete the code for boolean_vector
+boolean_vector <- c(TRUE, FALSE, TRUE)
 ```
 
 `@sct`
