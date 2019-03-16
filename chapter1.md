@@ -1,6 +1,7 @@
 ---
 title: 'Template Chapter 1'
 description: 'This is a template chapter.'
+free_preview: true
 ---
 
 ## An exercise title written in sentence case
